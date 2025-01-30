@@ -1,6 +1,0 @@
-# python
-*.pyc
-*.pyo
-__pycache__/
-*.py[cod]
-venv/
