@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   // Link css to all pages from main.css
   css: ["@/assets/css/main.css"],
   // Add tailwindcss module
-  modules: ["@nuxtjs/tailwindcss"],
+  modules: ["@nuxtjs/tailwindcss", "@sidebase/nuxt-auth"],
   // Add google fonts
   app: {
     head: {
